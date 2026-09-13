@@ -1,0 +1,6 @@
+{
+  "version": "0.2.0",
+  "windows": "https://github.com/codewithsiddique-04/autocapcut-releases/releases",
+  "mac": "https://github.com/codewithsiddique-04/autocapcut-releases/releases",
+  "notes": "Placeholder release to test the in-app update check."
+}
