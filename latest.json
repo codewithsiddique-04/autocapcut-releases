@@ -1,6 +1,6 @@
 {
-  "version": "0.1.0",
-  "windows": "https://github.com/codewithsiddique-04/autocapcut-releases/releases/download/v0.1.0/TryAIToday.AutoCapCut.Setup.0.1.0.exe",
-  "mac": "https://github.com/codewithsiddique-04/autocapcut-releases/releases/download/v0.1.0/TryAIToday.AutoCapCut-0.1.0-arm64.dmg",
-  "notes": "First release of TryAIToday AutoCapCut."
+  "version": "0.1.1",
+  "windows": "https://github.com/codewithsiddique-04/autocapcut-releases/releases/download/v0.1.1/TryAIToday.AutoCapCut.Setup.0.1.1.exe",
+  "mac": "https://github.com/codewithsiddique-04/autocapcut-releases/releases/download/v0.1.1/TryAIToday.AutoCapCut-0.1.1-arm64.dmg",
+  "notes": "Release 0.1.1"
 }
