@@ -1,6 +1,6 @@
 {
-  "version": "0.2.0",
-  "windows": "https://github.com/codewithsiddique-04/autocapcut-releases/releases",
-  "mac": "https://github.com/codewithsiddique-04/autocapcut-releases/releases",
-  "notes": "Placeholder release to test the in-app update check."
+  "version": "0.1.0",
+  "windows": "https://github.com/codewithsiddique-04/autocapcut-releases/releases/download/v0.1.0/TryAIToday.AutoCapCut.Setup.0.1.0.exe",
+  "mac": "https://github.com/codewithsiddique-04/autocapcut-releases/releases/download/v0.1.0/TryAIToday.AutoCapCut-0.1.0-arm64.dmg",
+  "notes": "First release of TryAIToday AutoCapCut."
 }
